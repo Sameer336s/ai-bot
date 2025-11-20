@@ -1,4 +1,0 @@
-
-hello = Hello, Sam!
-how are you = Always on, always learning.
-bye = Catch you later.
